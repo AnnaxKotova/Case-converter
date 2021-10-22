@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(245, 233, 219);
+    height: 100%;
+    width: 100%;
+}
+
+.title{
+    margin: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+textarea{
+    align-items: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+
+button{
+    background-color: burlywood;
+    margin-inline: 1.5%;
+}
